@@ -1,0 +1,2 @@
+-- LazyVim custom init.lua
+-- You can add your custom configuration here
